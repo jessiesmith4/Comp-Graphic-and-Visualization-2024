@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Mod2Assignment.vcxproj, Mod3.vcxproj, Mod3Assignment.vcxproj, Mod4Milestone.vcxproj, Mod5Milestone.vcxproj, Mod6Milestone.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Mod2Assignment.vcxproj -> C:\Users\jessi\source\repos\FinalProject\FinalProject\FinalProject\Debug\FinalProject.exe
+  C:\Users\jessi\source\repos\FinalProject\FinalProject\FinalProject\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
